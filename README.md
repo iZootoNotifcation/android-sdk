@@ -15,7 +15,6 @@ Open app/build.gradle (Module: app) file and add the following lines of code:
 Inside defaultConfig{} tag :
 
       manifestPlaceholders = [
-               izooto_enc_key: "izooto_seceret-key”
                izooto_app_id : "izotot_app_id" 
        ]
 	
